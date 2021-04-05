@@ -38,7 +38,7 @@
     "typescript": "^3.9.7"
   },
   "dependencies": {
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "iconv-lite": "^0.6.2",
     "jsonwebtoken": "^8.5.1",
     "koa": "^2.13.0",
